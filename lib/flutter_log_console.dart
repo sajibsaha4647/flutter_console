@@ -14,7 +14,7 @@ class FlutterConsole {
     final message = data?.toString() ?? '';
     final fullText = '$tag: $message';
 
-    final pattern = RegExp('.{1,$chunkSize}', dotAll: true);
+    final pattern = RegExp('.{5,$chunkSize}', dotAll: true);
     for (final match in pattern.allMatches(fullText)) {
       print(match.group(0));
     }
