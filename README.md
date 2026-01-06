@@ -21,7 +21,6 @@ Add the package to your `pubspec.yaml`:
 dependencies:
   flutter_log_console: ^1.0.0
 
-## Usage
 
 
 ```
