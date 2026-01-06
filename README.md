@@ -19,7 +19,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_console: ^1.0.0
+  flutter_log_console: ^1.0.0
 
 ## Usage
 
@@ -28,7 +28,8 @@ dependencies:
 ```
 
 
-import 'package:flutter_console/flutter_console.dart';
+import 'package:flutter_log_console/flutter_log_console.dart';
+
 
 
 ```

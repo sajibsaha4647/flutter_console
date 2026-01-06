@@ -1,7 +1,9 @@
-import 'package:flutter_console/flutter_log_console.dart';
+
+
+import 'package:flutter_log_console/flutter_log_console.dart';
 
 void main() {
-  FlutterConsole.log("Hello from flutter_console");
+  FlutterConsole.log("Hello from flutter_log_console");
 
   FlutterConsole.log({
     "success": true,
