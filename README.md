@@ -1,4 +1,4 @@
-# flutter_console
+# flutter_log_console
 
 A lightweight Flutter logging utility that prints long logs safely without
 console truncation warnings. Useful for debugging API responses, JSON data,
