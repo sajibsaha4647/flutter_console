@@ -1,6 +1,6 @@
 name: flutter_log_console
 description: "A Flutter utility to print long logs safely without console truncation warnings."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/sajibsaha4647/flutter_console.git
 
 environment:
