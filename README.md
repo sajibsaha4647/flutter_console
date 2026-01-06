@@ -62,7 +62,7 @@ Safe to use across all Flutter platforms
 
 ## Example App
 
-Check out the [example](https://github.com/sajibsaha4647/reponame.git) directory for a complete working app.
+Check out the [example](https://github.com/sajibsaha4647/flutter_console.git) directory for a complete working app.
 
 ## License
 
@@ -74,4 +74,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-If you find this package helpful, please give it a ⭐ on [GitHub](https://github.com/sajibsaha4647/reponame.git)!
+If you find this package helpful, please give it a ⭐ on [GitHub](https://github.com/sajibsaha4647/flutter_console.git)!
